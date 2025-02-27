@@ -1,2 +1,0 @@
-# Perfumy-JSX
-using React
